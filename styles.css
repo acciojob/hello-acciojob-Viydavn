@@ -1,12 +1,12 @@
 
 .accio{
-	max-width: 150 px ;
 	max-height: 150px;
-	background-color:black
+	max-width: 150px ;
+	background-color:black;
 	
 }
 .hello-accio{
 		color:white;
-	padding: 10px;
 	margin-left: 32px;
+	padding: 10px;
 }
